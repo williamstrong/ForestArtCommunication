@@ -172,7 +172,6 @@ DEPENDENCIES
   puma (~> 3.11)
   rails (~> 5.2.1)
   rspec-rails
-  ruby-debug-ide
   shoulda-matchers
   spring
   spring-watcher-listen (~> 2.0.0)
