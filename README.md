@@ -1,24 +1,3 @@
-# README
+[![Build Status](https://travis-ci.com/williamstrong/ForestArtCommunication.svg?branch=master)](https://travis-ci.com/williamstrong/ForestArtCommunication)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This service is designed to provide an API endpoint to send a message to the own of the site and another set of endpoints for the owner to sort and view the messages.
